@@ -2,6 +2,12 @@
 
 Sistem Pendukung Keputusan (SPK) berbasis web untuk mengoptimalkan penempatan penghuni Asrama menggunakan metode Fuzzy Analytic Hierarchy Process (Fuzzy AHP). Sistem ini menggantikan proses penempatan manual yang subjektif dengan perhitungan bobot kriteria yang terukur dan objektif, serta penempatan otomatis berdasarkan skor tertinggi dan ketersediaan kuota di setiap zona hunian.
 
+## Preview
+![Halaman Dashboard](Screenshot3.png)
+*Gambar 1: Antarmuka Dashboard Administrator yang menampilkan ringkasan statistik dan tingkat okupansi asrama.*
+![Halaman Data Penghuni](Screenshot4.png)
+*Gambar 2: Antarmuka pengelolaan Data Penghuni beserta atribut kriteria penilaian.*
+
 ## Fitur
 
 - **Login Administrator** – Autentikasi menggunakan username dan password, verifikasi terhadap database, dan redirect ke dashboard setelah berhasil login.
